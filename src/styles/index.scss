@@ -1,0 +1,12 @@
+@import "./variants.scss";
+@import "./components/componentA.scss";
+@import "./components/componentB.scss";
+body {
+    margin: 0;
+    padding: 0;
+}
+.App {
+    text-transform: capitalize;
+    text-align: center;
+    color: red;
+}
